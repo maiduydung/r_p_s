@@ -66,3 +66,5 @@ def r_p_s( ):
     #Im so exhausted now, 2 nights without any sleep to write this program. I know many people can do better than this :( 
 
 r_p_s()
+import time 
+time.sleep(5)
